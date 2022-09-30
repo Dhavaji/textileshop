@@ -1,0 +1,5 @@
+com\example\springbootfinal\domain\Student.class
+com\example\springbootfinal\repositary\StudentRepository.class
+com\example\springbootfinal\service\StudentService.class
+com\example\springbootfinal\SpringbootfinalApplication.class
+com\example\springbootfinal\controller\StudentController.class
